@@ -1,7 +1,7 @@
-Présentation
+Présentation:
 Exercice/projet The Hacking Project : Jeu de morpion ("Tic-Tac-Toe") en Ruby POO. 
 
-Explications
+Explications:
 Le programme en orienté objet contient 5 classes, un plateau de jeu et deux joueurs. La classe Board (plateau) dessine le tableau et teste la victoire. La classe Game (moteur de jeu) lance le jeu, appelle le tableau, initialise deux joueurs, commence un tour (turn) et la boucle après plusieurs échanges entre les deux joueurs.
 
 Améliorations : il y en a plein ! Par exemple, quand un joueur choisit une case déjà occupée, ça ne met pas de message d'erreur et les 9 tours passent alors qu'il reste des cases. Il pourrait être sympa aussi de proposer aux joueurs de lancer une nouvelle partie à la fin de la présente.
